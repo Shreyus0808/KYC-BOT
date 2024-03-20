@@ -13,7 +13,7 @@ Next, users are prompted to display their Aadhar card to a webcam, where the bot
 ## What it Aims to Solve:
 KYC Bot addresses the inefficiencies and challenges associated with traditional KYC processes. By automating the verification process and reducing manual data entry, it aims to save time and resources for both banks and customers. Leveraging Azure Machine Learning, KYC Bot enhances accuracy and reliability, helping mitigate errors and ensure compliance with regulatory requirements.
 
-By utilizing Azure services, KYC Bot not only streamlines the KYC process but also provides a scalable and secure solution that can seamlessly integrate into Standard Chartered's workflow. With its focus on simplicity, efficiency, and compliance, KYC Bot aims to revolutionize the KYC process, making it simpler, faster, and more convenient for all parties involved.
+By utilizing Azure services, KYC Bot not only streamlines the KYC process but also provides a scalable and secure solution that can seamlessly integrate into existing workflow. With its focus on simplicity, efficiency, and compliance, KYC Bot aims to revolutionize the KYC process, making it simpler, faster, and more convenient for all parties involved.
 
 ## Demo Video
 
